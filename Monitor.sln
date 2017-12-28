@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monitor", "Monitor\Monitor.csproj", "{18D3EAFC-166B-4648-823B-023DBC5D0133}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorInstaller", "MonitorInstaller\MonitorInstaller.csproj", "{A0EC40D4-C793-484C-9AC4-9520D726856E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D3EAFC-166B-4648-823B-023DBC5D0133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D3EAFC-166B-4648-823B-023DBC5D0133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D3EAFC-166B-4648-823B-023DBC5D0133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D3EAFC-166B-4648-823B-023DBC5D0133}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0EC40D4-C793-484C-9AC4-9520D726856E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0EC40D4-C793-484C-9AC4-9520D726856E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0EC40D4-C793-484C-9AC4-9520D726856E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0EC40D4-C793-484C-9AC4-9520D726856E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9154EB73-3E40-4C7B-A0A4-68323609044A}
+	EndGlobalSection
+EndGlobal

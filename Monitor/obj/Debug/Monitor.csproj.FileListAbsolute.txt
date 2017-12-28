@@ -1,0 +1,7 @@
+C:\Users\Gamer\source\repos\Monitor\Monitor\bin\Debug\Monitor.exe.config
+C:\Users\Gamer\source\repos\Monitor\Monitor\bin\Debug\Monitor.exe
+C:\Users\Gamer\source\repos\Monitor\Monitor\bin\Debug\Monitor.pdb
+C:\Users\Gamer\source\repos\Monitor\Monitor\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\source\repos\Monitor\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\Monitor\Monitor\obj\Debug\Monitor.exe
+C:\Users\Gamer\source\repos\Monitor\Monitor\obj\Debug\Monitor.pdb
